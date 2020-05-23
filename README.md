@@ -1,2 +1,2 @@
 # CoronaApp
-https://corona-app-react.netlify.app/
+[Live Site](https://corona-app-react.netlify.app/)
